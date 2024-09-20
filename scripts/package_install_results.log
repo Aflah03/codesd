@@ -1,0 +1,15 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+htop is already the newest version (3.3.0-4build1).
+The following packages were automatically installed and are no longer required:
+  linux-headers-6.8.0-41 linux-headers-6.8.0-41-generic
+  linux-image-6.8.0-41-generic linux-modules-6.8.0-41-generic
+  linux-modules-extra-6.8.0-41-generic
+  linux-modules-nvidia-550-6.8.0-41-generic
+  linux-objects-nvidia-535-6.8.0-41-generic
+  linux-objects-nvidia-550-6.8.0-41-generic
+  linux-signatures-nvidia-6.8.0-41-generic linux-tools-6.8.0-41
+  linux-tools-6.8.0-41-generic
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.

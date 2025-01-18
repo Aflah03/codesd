@@ -1,0 +1,1 @@
+savedcmd_/media/aflah/Data/z_linux/codes/os/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /media/aflah/Data/z_linux/codes/os/Module.symvers -T /media/aflah/Data/z_linux/codes/os/modules.order -i Module.symvers -e 

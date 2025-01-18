@@ -1,12 +1,9 @@
-#!/bin/bash
 
-command=htop
 
-if command -v $command
-then 
-  echo "$command is availiable lets run it"
-else
-  echo "comman is not availaible lets install it"
-fi
+read -p "input the value of n: " n
+for i in $(seq 1 $n)
+do 
+  echo $i
+done
 
-$command
+

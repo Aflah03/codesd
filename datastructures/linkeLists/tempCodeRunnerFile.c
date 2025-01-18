@@ -1,0 +1,1 @@
+ntLlist(result);

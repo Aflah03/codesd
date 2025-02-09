@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/media/aflah/Data/z_linux/codes/scripts/lab/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+AT	FCFS.c	/^	int AT;$/;"	m	struct:__anonb00c54780108	typeref:typename:int	file:
+BT	FCFS.c	/^	int BT;$/;"	m	struct:__anonb00c54780108	typeref:typename:int	file:
+PID	FCFS.c	/^	int PID;$/;"	m	struct:__anonb00c54780108	typeref:typename:int	file:
+Process	FCFS.c	/^}Process;$/;"	t	typeref:struct:__anonb00c54780108	file:
+__anonb00c54780108	FCFS.c	/^typedef struct{$/;"	s	file:
+all	Makefile	/^all:$/;"	t
+cet	Makefile	/^cet: x.c$/;"	t
+classfork	Makefile	/^classfork:$/;"	t
+main	1classfork.c	/^int main(){$/;"	f	typeref:typename:int
+main	FCFS.c	/^int main(){$/;"	f	typeref:typename:int
+main	classfork.c	/^int main(){$/;"	f	typeref:typename:int
+main	copy/11.c	/^int main() {$/;"	f	typeref:typename:int
+main	copy/12_2.c	/^int main() {$/;"	f	typeref:typename:int
+main	copy/13.c	/^int main() {$/;"	f	typeref:typename:int
+main	copy/fork.c	/^int main(){$/;"	f	typeref:typename:int
+main	copy/myadder.c	/^int main(int argc, char *argv[]) {$/;"	f	typeref:typename:int
+main	copy/pr10.c	/^int main() {$/;"	f	typeref:typename:int
+main	exec.c	/^int main(){$/;"	f	typeref:typename:int
+main	execExec.c	/^int main(int argc,char* argv[]){$/;"	f	typeref:typename:int
+print_even_numbers	copy/13.c	/^void print_even_numbers(int *arr, int size) {$/;"	f	typeref:typename:void
+print_odd_numbers	copy/13.c	/^void print_odd_numbers(int *arr, int size) {$/;"	f	typeref:typename:void
+print_time_usage	copy/pr10.c	/^void print_time_usage() {$/;"	f	typeref:typename:void
+priority	FCFS.c	/^	int priority;$/;"	m	struct:__anonb00c54780108	typeref:typename:int	file:
